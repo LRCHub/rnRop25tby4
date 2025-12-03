@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "可愛くてごめん",
+  "base_artist": "高嶺のなでしこ",
+  "createdAt": "2025-12-03T07:46:41.902453Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks feat. ちゅーたん(CV:早見沙織)",
+      "has_synced": true,
+      "path": "select/01_可愛くてごめん_HoneyWorks_feat._ちゅーたん(CV_早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "可愛くてごめん (feat. ちゅーたん(CV:早見沙織))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/02_可愛くてごめん_(feat._ちゅーたん(CV_早見沙織))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks feat. ちゅーたん(CV:早見沙織)",
+      "has_synced": true,
+      "path": "select/03_可愛くてごめん_HoneyWorks_feat._ちゅーたん(CV_早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "可愛くてごめん (feat.ちゅーたん)",
+      "artist": "HoneyWorks feat.ちゅーたん(CV.早見沙織)",
+      "has_synced": true,
+      "path": "select/04_可愛くてごめん_(feat.ちゅーたん)_HoneyWorks_feat.ちゅーたん(CV.早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "可愛くてごめん - Kawaikutegomen (feat. capi)",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/05_可愛くてごめん_-_Kawaikutegomen_(feat._capi)_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks feat. ちゅーたん(CV:早見沙織)",
+      "has_synced": true,
+      "path": "select/06_可愛くてごめん_HoneyWorks_feat._ちゅーたん(CV_早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/07_可愛くてごめん_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks/ちゅーたん(CV:早見沙織)",
+      "has_synced": true,
+      "path": "select/08_可愛くてごめん_HoneyWorks_ちゅーたん(CV_早見沙織).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "可愛くてごめん - Kawaikute gomen (feat. Chuutan(CV:Saori Hayami))",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/09_可愛くてごめん_-_Kawaikute_gomen_(feat._Chuutan(CV_Saori_Hayami))_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "可愛くてごめん feat. ちゅーたん（CV：早見沙織）／HoneyWorks",
+      "artist": "HoneyWorks OFFICIAL",
+      "has_synced": true,
+      "path": "select/10_可愛くてごめん_feat._ちゅーたん(CV_早見沙織)_HoneyWorks_HoneyWorks_OFFICIAL.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks feat.かぴ",
+      "has_synced": true,
+      "path": "select/11_可愛くてごめん_HoneyWorks_feat.かぴ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/12_可愛くてごめん_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "可愛くてごめん (feat. かぴ)",
+      "artist": "HoneyWorks, capi",
+      "has_synced": true,
+      "path": "select/13_可愛くてごめん_(feat._かぴ)_HoneyWorks,_capi.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "HoneyWorks",
+      "has_synced": true,
+      "path": "select/14_可愛くてごめん_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "アーリャ（CV：上坂すみれ）",
+      "has_synced": true,
+      "path": "select/15_可愛くてごめん_アーリャ(CV_上坂すみれ).lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "アーリャ(CV.上坂すみれ)",
+      "has_synced": true,
+      "path": "select/16_可愛くてごめん_アーリャ(CV.上坂すみれ).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "Ado",
+      "has_synced": true,
+      "path": "select/17_可愛くてごめん_Ado.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "可愛くてごめん - Kawaikutegomen (feat. capi)",
+      "artist": "Video • HoneyWorks",
+      "has_synced": true,
+      "path": "select/18_可愛くてごめん_-_Kawaikutegomen_(feat._capi)_Video_•_HoneyWorks.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "可愛くてごめん",
+      "artist": "アーリャ（CV：上坂すみれ）",
+      "has_synced": true,
+      "path": "select/19_可愛くてごめん_アーリャ(CV_上坂すみれ).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "可愛くてごめん",
+      "artist": "高嶺のなでしこ",
+      "has_synced": false,
+      "path": "select/pl_01_可愛くてごめん_高嶺のなでしこ.txt"
+    }
+  ]
+}
